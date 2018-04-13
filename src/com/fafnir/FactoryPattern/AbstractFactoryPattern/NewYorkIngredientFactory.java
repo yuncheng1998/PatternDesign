@@ -1,6 +1,6 @@
 package com.fafnir.FactoryPattern.AbstractFactoryPattern;
 
-public class NewYorkIngredientFactory implements PizzaIngredientFactory {
+public class NewYorkIngredientFactory implements IngredientFactory {
     @Override
     public Dough createDough() {
         return new ThinCrustDough();

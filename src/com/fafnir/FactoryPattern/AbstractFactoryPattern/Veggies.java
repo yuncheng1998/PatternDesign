@@ -1,4 +1,4 @@
 package com.fafnir.FactoryPattern.AbstractFactoryPattern;
 
-class Veggies {
+abstract class Veggies {
 }

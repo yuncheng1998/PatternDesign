@@ -1,9 +1,9 @@
 package com.fafnir.FactoryPattern.AbstractFactoryPattern;
 
 class ClamPizza extends Pizza {
-    private PizzaIngredientFactory pizzaIngredientFactory;
+    private IngredientFactory pizzaIngredientFactory;
 
-    ClamPizza(PizzaIngredientFactory pizzaIngredientFactory) {
+    ClamPizza(IngredientFactory pizzaIngredientFactory) {
         this.pizzaIngredientFactory = pizzaIngredientFactory;
     }
 
