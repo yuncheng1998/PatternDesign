@@ -1,17 +1,17 @@
 package com.fafnir.FactoryPattern.AbstractFactoryPattern;
 
-class NewYorkPizzaStore extends PizzaStore {
+public class ChicagoPizzaStore extends PizzaStore {
     private Pizza pizza = null;
 
+    @Override
     protected Pizza createPizza(String item) {
-        PizzaIngredientFactory pizzaIngredientFactory = new NewYorkIngredientFactory();
-
+        PizzaIngredientFactory pizzaIngredientFactory = new ChicagoIngredientFactory();
         if (item.equals("cheese")) {
             pizza = new CheesePizza(pizzaIngredientFactory);
-            pizza.setName("New York Style Cheese Pizza");
+            pizza.setName("Chicago style cheese Pizza");
         } else if (item.equals("clam")) {
             pizza = new ClamPizza(pizzaIngredientFactory);
-            pizza.setName("New York Style Clam Pizza");
+            pizza.setName("Chicago style clam Pizza");
         }
         return pizza;
     }

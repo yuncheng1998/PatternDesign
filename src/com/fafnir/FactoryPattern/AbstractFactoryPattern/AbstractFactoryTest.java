@@ -4,7 +4,7 @@ public class AbstractFactoryTest {
     public static void main(String[] args) {
         NewYorkPizzaStore newYorkPizzaStore = new NewYorkPizzaStore();
         ChicagoPizzaStore chicagoPizzaStore = new ChicagoPizzaStore();
-        
+
         newYorkPizzaStore.orderPizza("cheese");
         System.out.println("----next-----");
         newYorkPizzaStore.orderPizza("clam");

@@ -1,4 +1,5 @@
 package com.fafnir.FactoryPattern.AbstractFactoryPattern;
 
-public class Sauce {
+abstract class Sauce {
+    abstract String getName();
 }

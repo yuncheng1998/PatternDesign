@@ -1,4 +1,5 @@
 package com.fafnir.FactoryPattern.AbstractFactoryPattern;
 
-class Dough {
+abstract class Dough {
+    abstract String getName();
 }

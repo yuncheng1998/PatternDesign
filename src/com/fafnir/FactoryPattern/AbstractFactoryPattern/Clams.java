@@ -1,4 +1,5 @@
 package com.fafnir.FactoryPattern.AbstractFactoryPattern;
 
-class Clams {
+abstract class Clams {
+    abstract String getName();
 }

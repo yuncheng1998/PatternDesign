@@ -2,8 +2,8 @@ package com.fafnir.FactoryPattern.AbstractFactoryPattern;
 
 public abstract class Pizza {
     private String name;
-    Dough dough;
-    Sauce sauce;
+    public Dough dough;
+    public Sauce sauce;
     Veggies veggies[];
     Cheese cheese;
     Clams clams;

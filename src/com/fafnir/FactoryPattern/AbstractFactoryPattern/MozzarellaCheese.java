@@ -1,9 +1,7 @@
 package com.fafnir.FactoryPattern.AbstractFactoryPattern;
 
-class FeshClams extends Clams {
-
-    @Override
+class MozzarellaCheese extends Cheese {
     String getName() {
-        return "FleshClams";
+        return "MozzarellaCheese";
     }
 }

@@ -11,6 +11,8 @@ class ClamPizza extends Pizza {
     void prepare() {
         System.out.println("Preparing " + super.getName());
         dough = pizzaIngredientFactory.createDough();
+//        System.out.println(this.dough.getName());
+
         sauce = pizzaIngredientFactory.createSauce();
         cheese = pizzaIngredientFactory.createCheese();
         clams = pizzaIngredientFactory.createClams();
