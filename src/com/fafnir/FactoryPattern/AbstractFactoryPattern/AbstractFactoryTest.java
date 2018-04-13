@@ -2,12 +2,18 @@ package com.fafnir.FactoryPattern.AbstractFactoryPattern;
 
 public class AbstractFactoryTest {
     public static void main(String[] args) {
-        Pizza pizza;
         NewYorkPizzaStore newYorkPizzaStore = new NewYorkPizzaStore();
-        pizza = newYorkPizzaStore.createPizza("cheese");
-        System.out.println(pizza.getName());
+        ChicagoPizzaStore chicagoPizzaStore = new ChicagoPizzaStore();
+        
+        newYorkPizzaStore.orderPizza("cheese");
         System.out.println("----next-----");
-        pizza = newYorkPizzaStore.createPizza("clam");
-        System.out.println(pizza.getName());
+        newYorkPizzaStore.orderPizza("clam");
+
+        System.out.println("----next-----");
+        chicagoPizzaStore.orderPizza("cheese");
+        System.out.println("----next-----");
+        chicagoPizzaStore.orderPizza("clam");
+        System.out.println("----next-----");
+
     }
 }
