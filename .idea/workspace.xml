@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbb1dd56-f65f-4ef7-8fc4-f56a742efc82" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Decaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/StarBucks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Whip.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/Cheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/Cheese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/CheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/ChicagoIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/ChicagoIngredientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/ChicagoPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/ChicagoPizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/ClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/ClamPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/NewYorkIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/NewYorkIngredientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/NewYorkPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/NewYorkPizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/PizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/IngredientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/ReggianoCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/ReggianoCheese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/Veggies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/Veggies.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,99 +24,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MarinaraSauce.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/MarinaraSauce.java">
+      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="true">
+        <entry file="jar://$USER_HOME$/Java/jdk1.8.0_151/src.zip!/java/util/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-              <folding>
-                <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="284">
+              <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlumTomatoSauce.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/PlumTomatoSauce.java">
+      <file leaf-file-name="DataInputStream.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Java/jdk1.8.0_151/src.zip!/java/io/DataInputStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="9" />
+            <state relative-caret-position="220">
+              <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PizzaStore.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/PizzaStore.java">
+      <file leaf-file-name="LineNumberReader.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Java/jdk1.8.0_151/src.zip!/java/io/LineNumberReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state relative-caret-position="220">
+              <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pizza.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/Pizza.java">
+      <file leaf-file-name="PushbackInputStream.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Java/jdk1.8.0_151/src.zip!/java/io/PushbackInputStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="220">
+              <caret line="51" column="44" lean-forward="true" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NewYorkPizzaStore.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/NewYorkPizzaStore.java">
+      <file leaf-file-name="FilterInputStream.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Java/jdk1.8.0_151/src.zip!/java/io/FilterInputStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="484">
+              <caret line="45" column="6" lean-forward="true" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NewYorkIngredientFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/NewYorkIngredientFactory.java">
+      <file leaf-file-name="ByteArrayInputStream.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Java/jdk1.8.0_151/src.zip!/java/io/ByteArrayInputStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            <state relative-caret-position="220">
+              <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractFactoryTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/AbstractFactoryTest.java">
+      <file leaf-file-name="FileInputStream.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Java/jdk1.8.0_151/src.zip!/java/io/FileInputStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="220">
+              <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClamPizza.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/ClamPizza.java">
+      <file leaf-file-name="InputStream.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Java/jdk1.8.0_151/src.zip!/java/io/InputStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChicagoPizzaStore.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/ChicagoPizzaStore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReggianoCheese.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/ReggianoCheese.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-              <folding>
-                <element signature="e#159#160#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="220">
+              <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -142,18 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/fafnir/ObserverPattern/myself/WeatherStation.java" />
-        <option value="$PROJECT_DIR$/src/com/fafnir/ObserverPattern/myself/WeatherData.java" />
-        <option value="$PROJECT_DIR$/src/com/fafnir/ObserverPattern/useJava/WeatherData.java" />
-        <option value="$PROJECT_DIR$/src/com/fafnir/ObserverPattern/useJava/CurrentConditionDisplay.java" />
-        <option value="$PROJECT_DIR$/src/com/fafnir/ObserverPattern/useJava/WeatherStation.java" />
-        <option value="$PROJECT_DIR$/src/com/fafnir/SimpleFactory/Pizza.java" />
-        <option value="$PROJECT_DIR$/src/com/fafnir/SimpleFactory/PizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/com/fafnir/SimpleFactory/PepperoniPizza.java" />
-        <option value="$PROJECT_DIR$/src/com/fafnir/SimpleFactory/CheesePizza.java" />
-        <option value="$PROJECT_DIR$/src/com/fafnir/SimpleFactory/SimplePizzaFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/fafnir/SimpleFactory/SimpleFactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/SimpleFactory/SimplePizzaFactory.java" />
         <option value="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/SimpleFactory/SimpleFactoryTest.java" />
         <option value="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/FactoryMethod/PizzaStore.java" />
         <option value="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/FactoryMethodPattern/Pizza.java" />
@@ -193,6 +156,18 @@
         <option value="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/ReggianoCheese.java" />
         <option value="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/IngredientFactory.java" />
         <option value="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/NewYorkPizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Beverage.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Whip.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Mocha.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Espresso.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/HouseBlend.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Soy.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Milk.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Starbucks.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Decaf.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/CondimentDecorator.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/coffee/Whip.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/file/LowerCaseInputStream.java" />
       </list>
     </option>
   </component>
@@ -232,7 +207,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,40 +230,28 @@
               <item name="PatternDesign" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="fafnir" type="462c0819:PsiDirectoryNode" />
-              <item name="FactoryPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PatternDesign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PatternDesign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fafnir" type="462c0819:PsiDirectoryNode" />
-              <item name="FactoryPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="AbstractFactoryPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PatternDesign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PatternDesign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fafnir" type="462c0819:PsiDirectoryNode" />
-              <item name="ObserverPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="DecoratorPattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="test&#9;FILE&#9;file:///home/yuncheng/IdeaProjects/PatternDesign/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/AbstractFactoryTest.java" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/yuncheng/IdeaProjects/PatternDesign/src/com/fafnir/DecoratorPattern/file/LowerCaseInputStream.java&#10;test&#9;FILE&#9;file:///home/yuncheng/IdeaProjects/PatternDesign/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/AbstractFactoryTest.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaWeb" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.fafnir.DecoratorPattern" />
       <recent name="com.fafnir.FactoryPattern.AbstractFactoryPattern" />
       <recent name="com.fafnir.FactoryPattern.FactoryMethodPattern" />
     </key>
@@ -306,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AbstractFactoryTest">
+  <component name="RunManager" selected="Application.LowerCaseInputStream">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -332,6 +294,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="LowerCaseInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fafnir.DecoratorPattern.file.LowerCaseInputStream" />
+      <module name="PatternDesign" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fafnir.DecoratorPattern.file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="SimpleFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fafnir.FactoryPattern.SimpleFactory.SimpleFactoryTest" />
       <module name="PatternDesign" />
@@ -343,24 +316,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="WeatherStation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fafnir.ObserverPattern.useJava.WeatherStation" />
+    <configuration name="StarBucks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fafnir.DecoratorPattern.coffee.StarBucks" />
       <module name="PatternDesign" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fafnir.ObserverPattern.useJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fafnir.ObserverPattern.myself.WeatherStation" />
-      <module name="PatternDesign" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fafnir.ObserverPattern.myself.*" />
+          <option name="PATTERN" value="com.fafnir.DecoratorPattern.coffee.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,19 +382,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Application.WeatherStation" />
-      <item itemvalue="Application.WeatherStation (1)" />
       <item itemvalue="Application.SimpleFactoryTest" />
       <item itemvalue="Application.FactoryMethodTest" />
       <item itemvalue="Application.AbstractFactoryTest" />
+      <item itemvalue="Application.StarBucks" />
+      <item itemvalue="Application.LowerCaseInputStream" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LowerCaseInputStream" />
+        <item itemvalue="Application.StarBucks" />
         <item itemvalue="Application.AbstractFactoryTest" />
         <item itemvalue="Application.FactoryMethodTest" />
         <item itemvalue="Application.SimpleFactoryTest" />
-        <item itemvalue="Application.WeatherStation (1)" />
-        <item itemvalue="Application.WeatherStation" />
       </list>
     </recent_temporary>
   </component>
@@ -455,7 +417,8 @@
       <workItem from="1523200814209" duration="7425000" />
       <workItem from="1523256927215" duration="30000" />
       <workItem from="1523278826433" duration="48000" />
-      <workItem from="1523598452012" duration="5439000" />
+      <workItem from="1523598452012" duration="6079000" />
+      <workItem from="1524974806368" duration="10335000" />
     </task>
     <task id="LOCAL-00001" summary="工厂方法模式">
       <created>1523203718444</created>
@@ -478,15 +441,21 @@
       <option name="project" value="LOCAL" />
       <updated>1523600894323</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="工厂方法模式">
+      <created>1523604705146</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1523604705146</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40384000" />
+    <option name="totallyTimeSpent" value="51359000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-6" width="1920" height="1086" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="8" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -498,13 +467,13 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.4222689" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.27521008" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22358592" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6057971" visible="true" weight="0.226254" />
       <window_info anchor="right" id="Database" order="0" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.3942029" side_tool="true" visible="true" weight="0.226254" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="6" />
@@ -534,140 +503,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/ObserverPattern/myself/Display.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/ObserverPattern/myself/WeatherStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Java/jdk1.8.0_151/src.zip!/java/util/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2838">
-          <caret line="158" column="41" selection-start-line="158" selection-start-column="41" selection-end-line="158" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Java/jdk1.8.0_151/src.zip!/java/util/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/ObserverPattern/useJava/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/ObserverPattern/myself/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/ObserverPattern/useJava/WeatherStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="43" lean-forward="true" selection-start-column="43" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/ObserverPattern/myself/CurrentConditionDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/ObserverPattern/myself/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/ObserverPattern/useJava/CurrentConditionDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/ObserverPattern/myself/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/SimpleFactory/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/SimpleFactory/SimpleFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/FactoryMethodPattern/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/FactoryMethodPattern/ChicagoPizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/SimpleFactory/SimplePizzaFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/SimpleFactory/PepperoniPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/SimpleFactory/CheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/SimpleFactory/PizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/FactoryMethodPattern/NewYorkCheesePizza.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -770,10 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" selection-start-line="2" selection-end-line="7" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -822,14 +653,14 @@
     <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/NewYorkIngredientFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/ReggianoCheese.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           <folding>
             <element signature="e#159#160#0" expanded="true" />
           </folding>
@@ -845,8 +676,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/MarinaraSauce.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="88">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding>
             <element signature="e#130#131#0" expanded="true" />
             <element signature="e#168#169#0" expanded="true" />
@@ -854,24 +685,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/ClamPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/NewYorkPizzaStore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/AbstractFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -891,8 +708,192 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/Pizza.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="154">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/ClamPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/AbstractFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/file.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Milk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Mocha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Soy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/StarBucks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Whip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/CondimentDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Decaf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Espresso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/HouseBlend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Java/jdk1.8.0_151/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Java/jdk1.8.0_151/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Java/jdk1.8.0_151/src.zip!/java/io/ByteArrayInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Java/jdk1.8.0_151/src.zip!/java/io/PushbackInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="51" column="44" lean-forward="true" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Java/jdk1.8.0_151/src.zip!/java/io/LineNumberReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Java/jdk1.8.0_151/src.zip!/java/io/DataInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Java/jdk1.8.0_151/src.zip!/java/io/FilterInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="45" column="6" lean-forward="true" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/file/LowerCaseInputStream.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/Java/jdk1.8.0_151/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
         </state>
       </provider>
     </entry>
