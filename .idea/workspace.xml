@@ -1,30 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbb1dd56-f65f-4ef7-8fc4-f56a742efc82" name="Default" comment="命令模式">
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/RemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/RemoteControlTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/RemoteControlWithStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/RemoteControlWithUndo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/RemoteLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/appliances/CeilingFan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/appliances/GarageDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/appliances/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/appliances/Stereo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/CeilingFanCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/CeilingFanHighCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/CeilingFanLowCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/CeilingFanMediumCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/CeilingFanOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/GarageDoorOpenCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/LightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/MacroCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/NoCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/SimpleRemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/StereoOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/StereoOnWithCDCommand.java" afterDir="false" />
+    <list default="true" id="cbb1dd56-f65f-4ef7-8fc4-f56a742efc82" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/fafnir/AdapterPattern/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fafnir/AdapterPattern/adaptee/Turkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fafnir/AdapterPattern/adaptee/WildTurkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fafnir/AdapterPattern/adapter/TurkeyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fafnir/AdapterPattern/target/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fafnir/AdapterPattern/target/MallardDuck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RemoteLoader.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RemoteLoader.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/fafnir/CommandPattern/RemoteLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-77">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="144">
+              <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,23 +32,84 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemoteControlTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fafnir/CommandPattern/RemoteControlTest.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/fafnir/AdapterPattern/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11">
+              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Beverage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Beverage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
               <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TurkeyAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/fafnir/AdapterPattern/adapter/TurkeyAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MacroCommand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/MacroCommand.java">
+      <file leaf-file-name="Duck.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/fafnir/AdapterPattern/target/Duck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="144">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WildTurkey.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/fafnir/AdapterPattern/adaptee/WildTurkey.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MallardDuck.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/fafnir/AdapterPattern/target/MallardDuck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Turkey.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/fafnir/AdapterPattern/adaptee/Turkey.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -73,8 +117,8 @@
       <file leaf-file-name="RemoteControlWithUndo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/fafnir/CommandPattern/RemoteControlWithUndo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="192">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -82,56 +126,11 @@
       <file leaf-file-name="RemoteControlWithStack.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/fafnir/CommandPattern/RemoteControlWithStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
+            <state relative-caret-position="984">
               <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CeilingFanCommand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/CeilingFanCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="28" column="93" selection-start-line="28" selection-start-column="93" selection-end-line="28" selection-end-column="93" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CeilingFanLowCommand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/CeilingFanLowCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CeilingFanHighCommand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/CeilingFanHighCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CeilingFanMediumCommand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/CeilingFanMediumCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CeilingFanOffCommand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/CeilingFanOffCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -159,12 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/Veggies.java" />
-        <option value="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/ReggianoCheese.java" />
-        <option value="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/IngredientFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/NewYorkPizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Beverage.java" />
-        <option value="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Whip.java" />
         <option value="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Mocha.java" />
         <option value="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Espresso.java" />
         <option value="$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/HouseBlend.java" />
@@ -207,9 +200,15 @@
         <option value="$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/CeilingFanMediumCommand.java" />
         <option value="$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/CeilingFanOffCommand.java" />
         <option value="$PROJECT_DIR$/src/com/fafnir/CommandPattern/RemoteControlWithUndo.java" />
-        <option value="$PROJECT_DIR$/src/com/fafnir/CommandPattern/RemoteLoader.java" />
         <option value="$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/CeilingFanCommand.java" />
         <option value="$PROJECT_DIR$/src/com/fafnir/CommandPattern/RemoteControlWithStack.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/CommandPattern/RemoteLoader.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/AdapterPattern/adaptee/WildTurkey.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/AdapterPattern/target/MallardDuck.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/AdapterPattern/target/Duck.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/AdapterPattern/adaptee/Turkey.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/AdapterPattern/adapter/TurkeyAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/fafnir/AdapterPattern/Test.java" />
       </list>
     </option>
   </component>
@@ -250,6 +249,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,61 +273,46 @@
               <item name="PatternDesign" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="fafnir" type="462c0819:PsiDirectoryNode" />
-              <item name="CommandPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="AdapterPattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PatternDesign" type="b2602c69:ProjectViewProjectNode" />
               <item name="PatternDesign" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="fafnir" type="462c0819:PsiDirectoryNode" />
-              <item name="CommandPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="appliances" type="462c0819:PsiDirectoryNode" />
+              <item name="AdapterPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="adaptee" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PatternDesign" type="b2602c69:ProjectViewProjectNode" />
               <item name="PatternDesign" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="fafnir" type="462c0819:PsiDirectoryNode" />
-              <item name="CommandPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="AdapterPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PatternDesign" type="b2602c69:ProjectViewProjectNode" />
               <item name="PatternDesign" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="fafnir" type="462c0819:PsiDirectoryNode" />
-              <item name="DecoratorPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PatternDesign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PatternDesign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fafnir" type="462c0819:PsiDirectoryNode" />
-              <item name="FactoryPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PatternDesign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PatternDesign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fafnir" type="462c0819:PsiDirectoryNode" />
-              <item name="FactoryPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="AbstractFactoryPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="AdapterPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/yuncheng/IdeaProjects/PatternDesign/src/com/fafnir/CommandPattern/commands/CeilingFanCommand.java&#10;test&#9;FILE&#9;file:///home/yuncheng/IdeaProjects/PatternDesign/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/AbstractFactoryTest.java" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/yuncheng/IdeaProjects/PatternDesign/src/com/fafnir/AdapterPattern/Test.java&#10;test&#9;FILE&#9;file:///home/yuncheng/IdeaProjects/PatternDesign/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/AbstractFactoryTest.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaWeb" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -348,7 +333,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoteLoader">
+  <component name="RunManager" selected="Application.Test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -396,13 +381,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StarBucks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fafnir.DecoratorPattern.coffee.StarBucks" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fafnir.AdapterPattern.Test" />
       <module name="PatternDesign" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fafnir.DecoratorPattern.coffee.*" />
+          <option name="PATTERN" value="com.fafnir.AdapterPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -462,19 +447,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Application.StarBucks" />
       <item itemvalue="Application.LowerCaseInputStream" />
       <item itemvalue="Application.Singleton" />
       <item itemvalue="Application.RemoteControlTest" />
       <item itemvalue="Application.RemoteLoader" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.RemoteLoader" />
         <item itemvalue="Application.RemoteControlTest" />
         <item itemvalue="Application.Singleton" />
         <item itemvalue="Application.LowerCaseInputStream" />
-        <item itemvalue="Application.StarBucks" />
       </list>
     </recent_temporary>
   </component>
@@ -504,7 +489,8 @@
       <workItem from="1528620466664" duration="653000" />
       <workItem from="1539344094086" duration="2470000" />
       <workItem from="1539429138988" duration="15309000" />
-      <workItem from="1539490125833" duration="5753000" />
+      <workItem from="1539490125833" duration="7729000" />
+      <workItem from="1539601554308" duration="5887000" />
     </task>
     <task id="LOCAL-00001" summary="工厂方法模式">
       <created>1523203718444</created>
@@ -548,11 +534,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528614671602</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="命令模式">
+      <created>1539498983076</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1539498983076</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82852000" />
+    <option name="totallyTimeSpent" value="90715000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -564,7 +557,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
+    <frame x="0" y="-6" width="1920" height="1086" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="8" />
@@ -577,11 +570,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32983193" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.3182773" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.47689074" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4994664" weight="0.32983193" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.60144925" visible="true" weight="0.20330843" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.60144925" visible="true" weight="0.2054429" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info id="Structure" order="1" sideWeight="0.39855072" side_tool="true" weight="0.23692636" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -642,48 +635,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/NewYorkPizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/ChicagoPizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/PizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/ClamPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/FactoryPattern/AbstractFactoryPattern/AbstractFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/file.java" />
     <entry file="file://$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Milk.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -836,13 +787,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Beverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fafnir/CommandPattern/appliances/Stereo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -947,8 +891,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fafnir/CommandPattern/RemoteControlTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        <state relative-caret-position="48">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -958,7 +902,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/fafnir/CommandPattern/commands/MacroCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -985,7 +929,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fafnir/CommandPattern/RemoteControlWithStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
+        <state relative-caret-position="984">
           <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -995,17 +939,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fafnir/CommandPattern/RemoteControlWithUndo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fafnir/CommandPattern/RemoteLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-77">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="144">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/AdapterPattern/target/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/AdapterPattern/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/DecoratorPattern/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/AdapterPattern/adaptee/Turkey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/AdapterPattern/adaptee/WildTurkey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/AdapterPattern/adapter/TurkeyAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fafnir/AdapterPattern/target/MallardDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
           </folding>
         </state>
       </provider>
