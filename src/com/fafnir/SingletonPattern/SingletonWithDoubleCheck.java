@@ -5,7 +5,7 @@ package com.fafnir.SingletonPattern;
  */
 public class SingletonWithDoubleCheck extends AbstractSingleton {
 
-    private static SingletonWithDoubleCheck singletonWithDoubleCheck;
+    private volatile static SingletonWithDoubleCheck singletonWithDoubleCheck;
     private SingletonWithDoubleCheck() {}
 
     public static SingletonWithDoubleCheck getInstance() {

@@ -24,7 +24,7 @@ public class SingletonTest {
         /**
          * 枚举
          */
-//        SingleReflectAttacker.attackWithReflect(SingletonWithEnum.class, SingletonWithEnum.INSTANCE);
+        SingleReflectAttacker.attackWithReflect(SingletonWithEnum.class, SingletonWithEnum.INSTANCE);
         result = SingleDeserializeAttacker.attackWithDeserialize(SingletonWithEnum.INSTANCE);
         System.out.println("【枚举】反序列化攻击的结果: " + result);
 
@@ -32,28 +32,28 @@ public class SingletonTest {
          * 不安全的双重校验锁
          */
         result = SingleReflectAttacker.attackWithReflect(SingletonWithDoubleCheck.class, SingletonWithDoubleCheck.getInstance());
-        System.out.println("【双重校验锁】: " + result);
+        System.out.println("【双重校验锁】反射攻击的结果: " + result);
         assert SingletonWithDoubleCheck.getInstance() != null;
         result = SingleDeserializeAttacker.attackWithDeserialize(SingletonWithDoubleCheck.getInstance());
-        System.out.println("【双重校验锁】: " + result);
+        System.out.println("【双重校验锁】反序列化攻击的结果: " + result);
 
         /**
          * 不安全的静态内部类
          */
         result = SingleReflectAttacker.attackWithReflect(SingletonWithStaticInnerClass.class, SingletonWithStaticInnerClass.getInstance());
-        System.out.println("【静态内部类】: " + result);
+        System.out.println("【静态内部类】反射攻击的结果: " + result);
         assert SingletonWithStaticInnerClass.getInstance() != null;
         result = SingleDeserializeAttacker.attackWithDeserialize(SingletonWithStaticInnerClass.getInstance());
-        System.out.println("【静态内部类】: " + result);
+        System.out.println("【静态内部类】反序列化攻击的结果: " + result);
 
         /**
          * 不安全的静态代码块
          */
         result = SingleReflectAttacker.attackWithReflect(SingletonWithHungryStatic.class, SingletonWithHungryStatic.getInstance());
-        System.out.println("【静态代码块】: " + result);
+        System.out.println("【静态代码块】反射攻击的结果: " + result);
         assert SingletonWithHungryStatic.getInstance() != null;
         result = SingleDeserializeAttacker.attackWithDeserialize(SingletonWithHungryStatic.getInstance());
-        System.out.println("【静态代码块】: " + result);
+        System.out.println("【静态代码块】反序列化攻击的结果: " + result);
 
     }
 
